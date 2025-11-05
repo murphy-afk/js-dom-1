@@ -1,0 +1,12 @@
+img {
+  max-width: 100%;
+}
+
+.image {
+  width: 200px;
+}
+
+.light-on {
+  background-color: rgb(227, 194, 76);
+
+}
