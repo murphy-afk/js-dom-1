@@ -17,3 +17,10 @@ img {
   background-color: rgb(115, 101, 49);
   transition: background-color 1s ease-in-out;
 }
+
+.boo {
+  width: 200px;
+  position: absolute;
+  right: 5px;
+  bottom: 10px;
+}
