@@ -8,5 +8,12 @@ img {
 
 .light-on {
   background-color: rgb(227, 194, 76);
+  background-image: radial-gradient( rgb(227, 194, 76), transparent);
+  transition: background-color 1s ease-in-out;
 
+}
+
+.background-on {
+  background-color: rgb(115, 101, 49);
+  transition: background-color 1s ease-in-out;
 }
