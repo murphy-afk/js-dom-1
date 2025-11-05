@@ -24,3 +24,18 @@ img {
   right: 5px;
   bottom: 10px;
 }
+
+.find-me {
+  width: 300px;
+  height: 100px;
+  background-color: rgb(163, 160, 132);
+  /* position: absolute;
+  top: 5px;
+  left: 5px; */
+}
+/* 
+.instructions {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+} */
